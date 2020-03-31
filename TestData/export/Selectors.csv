@@ -1,0 +1,9 @@
+IsUsed, Methods
+True,-[AYTest instanceOne:]
+False,-[AYTest instanceTwo:]
+True,+[AYTest classOne:]
+False,+[AYTest classTwo:]
+True,-[AYTest age]
+True,-[AYTest setAge:]
+True,-[AYTest name]
+True,-[AYTest setName:]

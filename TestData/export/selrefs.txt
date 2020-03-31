@@ -1,0 +1,15 @@
+./TestData/TestDemo:
+Contents of (__DATA,__objc_selrefs) section
+0000000100008d78  __TEXT:__objc_methname:viewDidLoad
+0000000100008d80  __TEXT:__objc_methname:setAge:
+0000000100008d88  __TEXT:__objc_methname:age
+0000000100008d90  __TEXT:__objc_methname:instanceOne:
+0000000100008d98  __TEXT:__objc_methname:classOne:
+0000000100008da0  __TEXT:__objc_methname:setName:
+0000000100008da8  __TEXT:__objc_methname:name
+0000000100008db0  __TEXT:__objc_methname:dealloc
+0000000100008db8  __TEXT:__objc_methname:initWithNibName:bundle:
+0000000100008dc0  __TEXT:__objc_methname:initWithCoder:
+0000000100008dc8  __TEXT:__objc_methname:init
+0000000100008dd0  __TEXT:__objc_methname:role
+0000000100008dd8  __TEXT:__objc_methname:initWithName:sessionRole:

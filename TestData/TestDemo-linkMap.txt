@@ -1,0 +1,1516 @@
+# Path: /Users/april/Library/Developer/Xcode/DerivedData/TestDemo-cqobcaznkdbsxzeimbrhmrejmuqx/Build/Products/Debug-iphonesimulator/TestDemo.app/TestDemo
+# Arch: x86_64
+# Object files:
+[  0] linker synthesized
+[  1] /Users/april/Library/Developer/Xcode/DerivedData/TestDemo-cqobcaznkdbsxzeimbrhmrejmuqx/Build/Intermediates.noindex/TestDemo.build/Debug-iphonesimulator/TestDemo.build/TestDemo.app-Simulated.xcent
+[  2] /Users/april/Library/Developer/Xcode/DerivedData/TestDemo-cqobcaznkdbsxzeimbrhmrejmuqx/Build/Intermediates.noindex/TestDemo.build/Debug-iphonesimulator/TestDemo.build/Objects-normal/x86_64/AYTest.o
+[  3] /Users/april/Library/Developer/Xcode/DerivedData/TestDemo-cqobcaznkdbsxzeimbrhmrejmuqx/Build/Intermediates.noindex/TestDemo.build/Debug-iphonesimulator/TestDemo.build/Objects-normal/x86_64/OtherClass.o
+[  4] /Users/april/Library/Developer/Xcode/DerivedData/TestDemo-cqobcaznkdbsxzeimbrhmrejmuqx/Build/Intermediates.noindex/TestDemo.build/Debug-iphonesimulator/TestDemo.build/Objects-normal/x86_64/ViewController.o
+[  5] /Users/april/Library/Developer/Xcode/DerivedData/TestDemo-cqobcaznkdbsxzeimbrhmrejmuqx/Build/Intermediates.noindex/TestDemo.build/Debug-iphonesimulator/TestDemo.build/Objects-normal/x86_64/AppDelegate.o
+[  6] /Users/april/Library/Developer/Xcode/DerivedData/TestDemo-cqobcaznkdbsxzeimbrhmrejmuqx/Build/Intermediates.noindex/TestDemo.build/Debug-iphonesimulator/TestDemo.build/Objects-normal/x86_64/SceneDelegate.o
+[  7] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks//Foundation.framework/Foundation.tbd
+[  8] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/lib/libobjc.tbd
+[  9] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/lib/libSystem.tbd
+[ 10] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks//UIKit.framework/UIKit.tbd
+[ 11] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/lib/swift/libswiftCore.tbd
+[ 12] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/lib/swift/libswiftObjectiveC.tbd
+[ 13] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/lib/swift/libswiftFoundation.tbd
+# Sections:
+# Address	Size    	Segment	Section
+0x1000014F0	0x00002570	__TEXT	__text
+0x100003A60	0x000000D8	__TEXT	__stubs
+0x100003B38	0x00000178	__TEXT	__stub_helper
+0x100003CB0	0x00000014	__TEXT	__objc_classname
+0x100003CC4	0x00000D11	__TEXT	__objc_methname
+0x1000049D5	0x00000047	__TEXT	__objc_methtype
+0x100004A20	0x00000E67	__TEXT	__cstring
+0x100005890	0x00000310	__TEXT	__const
+0x100005BA0	0x0000009B	__TEXT	__swift5_typeref
+0x100005C3C	0x00000058	__TEXT	__swift5_fieldmd
+0x100005C94	0x00000010	__TEXT	__swift5_types
+0x100005CA4	0x00000014	__TEXT	__swift5_builtin
+0x100005CB8	0x0000002A	__TEXT	__swift5_reflstr
+0x100005CE4	0x00000030	__TEXT	__swift5_assocty
+0x100005D14	0x00000018	__TEXT	__swift5_proto
+0x100005D2C	0x00000176	__TEXT	__entitlements
+0x100005EA4	0x00000150	__TEXT	__unwind_info
+0x100006000	0x00000108	__DATA_CONST	__got
+0x100006108	0x00000030	__DATA_CONST	__const
+0x100006138	0x00000028	__DATA_CONST	__objc_classlist
+0x100006160	0x00000020	__DATA_CONST	__objc_protolist
+0x100006180	0x00000008	__DATA_CONST	__objc_imageinfo
+0x100007000	0x00000120	__DATA	__la_symbol_ptr
+0x100007120	0x00001C58	__DATA	__objc_const
+0x100008D78	0x00000068	__DATA	__objc_selrefs
+0x100008DE0	0x00000020	__DATA	__objc_protorefs
+0x100008E00	0x00000020	__DATA	__objc_classrefs
+0x100008E20	0x00000020	__DATA	__objc_ivar
+0x100008E40	0x00000228	__DATA	__objc_data
+0x100009068	0x000000E0	__DATA	__data
+0x100009150	0x00000328	__DATA	__bss
+# Symbols:
+# Address	Size    	File  Name
+0x1000014F0	0x00000020	[  2] -[AYTest instanceOne:]
+0x100001510	0x00000020	[  2] -[AYTest instanceTwo:]
+0x100001530	0x00000020	[  2] +[AYTest classOne:]
+0x100001550	0x00000020	[  2] +[AYTest classTwo:]
+0x100001570	0x00000020	[  2] -[AYTest age]
+0x100001590	0x00000020	[  2] -[AYTest setAge:]
+0x1000015B0	0x00000020	[  2] -[AYTest name]
+0x1000015D0	0x00000040	[  2] -[AYTest setName:]
+0x100001610	0x00000030	[  2] -[AYTest .cxx_destruct]
+0x100001640	0x00000020	[  3] -[OtherClass instanceOne:]
+0x100001660	0x00000020	[  3] -[OtherClass instanceTwo:]
+0x100001680	0x00000020	[  3] +[OtherClass classOne:]
+0x1000016A0	0x00000020	[  3] +[OtherClass classTwo:]
+0x1000016C0	0x00000020	[  3] -[OtherClass age]
+0x1000016E0	0x00000020	[  3] -[OtherClass setAge:]
+0x100001700	0x00000020	[  3] -[OtherClass name]
+0x100001720	0x00000040	[  3] -[OtherClass setName:]
+0x100001760	0x00000030	[  3] -[OtherClass .cxx_destruct]
+0x100001790	0x00000370	[  4] _$s8TestDemo14ViewControllerC11viewDidLoadyyF
+0x100001B00	0x00000040	[  4] _$s8TestDemo14ViewControllerCMa
+0x100001B40	0x00000040	[  4] _$sSo6AYTestCMa
+0x100001B80	0x00000030	[  4] _$sSo6AYTestCABycfC
+0x100001BB0	0x00000020	[  4] _$sSo6AYTestCABycfcTO
+0x100001BD0	0x00000020	[  4] _$ss5print_9separator10terminatoryypd_S2StFfA0_
+0x100001BF0	0x00000020	[  4] _$ss5print_9separator10terminatoryypd_S2StFfA1_
+0x100001C10	0x00000040	[  4] _$s8TestDemo14ViewControllerC11viewDidLoadyyFTo
+0x100001C50	0x00000050	[  4] _$s8TestDemo14ViewControllerCfD
+0x100001CA0	0x000000C0	[  4] _$s8TestDemo14ViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfC
+0x100001D60	0x000001C0	[  4] _$s8TestDemo14ViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc
+0x100001F20	0x00000030	[  4] _$sSSSgWOy
+0x100001F50	0x00000030	[  4] _$sSSSgWOe
+0x100001F80	0x000000C0	[  4] _$s8TestDemo14ViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfcTo
+0x100002040	0x00000050	[  4] _$s8TestDemo14ViewControllerC5coderACSgSo7NSCoderC_tcfC
+0x100002090	0x00000120	[  4] _$s8TestDemo14ViewControllerC5coderACSgSo7NSCoderC_tcfc
+0x1000021B0	0x0000003B	[  4] _$s8TestDemo14ViewControllerC5coderACSgSo7NSCoderC_tcfcTo
+0x1000021F0	0x00000030	[  5] _$s8TestDemo11AppDelegateC11application_29didFinishLaunchingWithOptionsSbSo13UIApplicationC_SDySo0k6LaunchJ3KeyaypGSgtF
+0x100002220	0x00000120	[  5] _$s8TestDemo11AppDelegateC11application_29didFinishLaunchingWithOptionsSbSo13UIApplicationC_SDySo0k6LaunchJ3KeyaypGSgtFTo
+0x100002340	0x00000090	[  5] _$sSo29UIApplicationLaunchOptionsKeyaMa
+0x1000023D0	0x00000050	[  5] _$sSo29UIApplicationLaunchOptionsKeyaABSHSCWl
+0x100002420	0x000000B0	[  5] _$s8TestDemo11AppDelegateC11application_26configurationForConnecting7optionsSo20UISceneConfigurationCSo13UIApplicationC_So0J7SessionCSo0J17ConnectionOptionsCtF
+0x1000024D0	0x00000040	[  5] _$sSo20UISceneConfigurationCMa
+0x100002510	0x00000050	[  5] _$sSo20UISceneConfigurationC4name11sessionRoleABSSSg_So0a7SessionE0atcfC
+0x100002560	0x000000B0	[  5] _$sSo20UISceneConfigurationC4name11sessionRoleABSSSg_So0a7SessionE0atcfcTO
+0x100002610	0x000000C0	[  5] _$s8TestDemo11AppDelegateC11application_26configurationForConnecting7optionsSo20UISceneConfigurationCSo13UIApplicationC_So0J7SessionCSo0J17ConnectionOptionsCtFTo
+0x1000026D0	0x00000030	[  5] _$s8TestDemo11AppDelegateC11application_23didDiscardSceneSessionsySo13UIApplicationC_ShySo14UISceneSessionCGtF
+0x100002700	0x000000C0	[  5] _$s8TestDemo11AppDelegateC11application_23didDiscardSceneSessionsySo13UIApplicationC_ShySo14UISceneSessionCGtFTo
+0x1000027C0	0x00000040	[  5] _$sSo14UISceneSessionCMa
+0x100002800	0x00000050	[  5] _$sSo14UISceneSessionCSo8NSObjectCSH10ObjectiveCWl
+0x100002850	0x00000050	[  5] _$s8TestDemo11AppDelegateCfD
+0x1000028A0	0x00000040	[  5] _$s8TestDemo11AppDelegateCMa
+0x1000028E0	0x00000020	[  5] _$s8TestDemo11AppDelegateCACycfC
+0x100002900	0x00000080	[  5] _$s8TestDemo11AppDelegateCACycfc
+0x100002980	0x00000020	[  5] _$s8TestDemo11AppDelegateCACycfcTo
+0x1000029A0	0x00000070	[  5] _main
+0x100002A10	0x00000040	[  5] _$sSo29UIApplicationLaunchOptionsKeyaSHSCSH9hashValueSivgTW
+0x100002A50	0x00000050	[  5] _$sSo29UIApplicationLaunchOptionsKeyaSHSCSH4hash4intoys6HasherVz_tFTW
+0x100002AA0	0x00000050	[  5] _$sSo29UIApplicationLaunchOptionsKeyaSHSCSH13_rawHashValue4seedS2i_tFTW
+0x100002AF0	0x00000040	[  5] _$sSo29UIApplicationLaunchOptionsKeyas21_ObjectiveCBridgeableSCsACP09_bridgeToE1C01_E5CTypeQzyFTW
+0x100002B30	0x00000050	[  5] _$sSo29UIApplicationLaunchOptionsKeyas21_ObjectiveCBridgeableSCsACP016_forceBridgeFromE1C_6resulty01_E5CTypeQz_xSgztFZTW
+0x100002B80	0x00000050	[  5] _$sSo29UIApplicationLaunchOptionsKeyas21_ObjectiveCBridgeableSCsACP024_conditionallyBridgeFromE1C_6resultSb01_E5CTypeQz_xSgztFZTW
+0x100002BD0	0x00000060	[  5] _$sSo29UIApplicationLaunchOptionsKeyas21_ObjectiveCBridgeableSCsACP026_unconditionallyBridgeFromE1Cyx01_E5CTypeQzSgFZTW
+0x100002C30	0x00000040	[  5] _$sSo29UIApplicationLaunchOptionsKeyaSQSCSQ2eeoiySbx_xtFZTW
+0x100002C70	0x00000030	[  5] _$sSo29UIApplicationLaunchOptionsKeyaSYSCSY8rawValuexSg03RawF0Qz_tcfCTW
+0x100002CA0	0x00000090	[  5] _$sSo29UIApplicationLaunchOptionsKeya8rawValueABSS_tcfC
+0x100002D30	0x00000030	[  5] _$sSo29UIApplicationLaunchOptionsKeyaSYSCSY8rawValue03RawF0QzvgTW
+0x100002D60	0x00000060	[  5] _$sSo29UIApplicationLaunchOptionsKeya8rawValueSSvg
+0x100002DC0	0x00000060	[  5] _$sSo29UIApplicationLaunchOptionsKeyas35_HasCustomAnyHashableRepresentationSCsACP03_tofgH0s0gH0VSgyFTW
+0x100002E20	0x00000010	[  5] _$sSo29UIApplicationLaunchOptionsKeyas20_SwiftNewtypeWrapperSCSYWb
+0x100002E30	0x00000050	[  5] _$sSo29UIApplicationLaunchOptionsKeyaABSYSCWl
+0x100002E80	0x00000010	[  5] _$sSo29UIApplicationLaunchOptionsKeyas20_SwiftNewtypeWrapperSCs35_HasCustomAnyHashableRepresentationPWb
+0x100002E90	0x00000050	[  5] _$sSo29UIApplicationLaunchOptionsKeyaABs35_HasCustomAnyHashableRepresentationSCWl
+0x100002EE0	0x00000010	[  5] _$sSo29UIApplicationLaunchOptionsKeyaSHSCSQWb
+0x100002EF0	0x00000050	[  5] _$sSo29UIApplicationLaunchOptionsKeyaABSQSCWl
+0x100002F40	0x00000050	[  5] _$sSo29UIApplicationLaunchOptionsKeyaABs20_SwiftNewtypeWrapperSCWl
+0x100002F90	0x00000039	[  5] _$sS2Ss21_ObjectiveCBridgeable10FoundationWl
+0x100002FD0	0x00000010	[  6] _$s8TestDemo13SceneDelegateC6windowSo8UIWindowCSgvpfi
+0x100002FE0	0x00000050	[  6] _$s8TestDemo13SceneDelegateC6windowSo8UIWindowCSgvgTo
+0x100003030	0x00000090	[  6] _$s8TestDemo13SceneDelegateC6windowSo8UIWindowCSgvg
+0x1000030C0	0x00000060	[  6] _$s8TestDemo13SceneDelegateC6windowSo8UIWindowCSgvsTo
+0x100003120	0x000000B0	[  6] _$s8TestDemo13SceneDelegateC6windowSo8UIWindowCSgvs
+0x1000031D0	0x00000070	[  6] _$s8TestDemo13SceneDelegateC6windowSo8UIWindowCSgvpACTK
+0x100003240	0x00000090	[  6] _$s8TestDemo13SceneDelegateC6windowSo8UIWindowCSgvpACTk
+0x1000032D0	0x00000050	[  6] _$s8TestDemo13SceneDelegateC6windowSo8UIWindowCSgvM
+0x100003320	0x00000010	[  6] _$s8TestDemo13SceneDelegateC6windowSo8UIWindowCSgvM.resume.0
+0x100003330	0x00000120	[  6] _$s8TestDemo13SceneDelegateC5scene_13willConnectTo7optionsySo7UISceneC_So0J7SessionCSo0J17ConnectionOptionsCtF
+0x100003450	0x000000C0	[  6] _$s8TestDemo13SceneDelegateC5scene_13willConnectTo7optionsySo7UISceneC_So0J7SessionCSo0J17ConnectionOptionsCtFTo
+0x100003510	0x00000020	[  6] _$s8TestDemo13SceneDelegateC18sceneDidDisconnectyySo7UISceneCF
+0x100003530	0x00000070	[  6] _$s8TestDemo13SceneDelegateC18sceneDidDisconnectyySo7UISceneCFTo
+0x1000035A0	0x00000020	[  6] _$s8TestDemo13SceneDelegateC20sceneDidBecomeActiveyySo7UISceneCF
+0x1000035C0	0x00000070	[  6] _$s8TestDemo13SceneDelegateC20sceneDidBecomeActiveyySo7UISceneCFTo
+0x100003630	0x00000020	[  6] _$s8TestDemo13SceneDelegateC21sceneWillResignActiveyySo7UISceneCF
+0x100003650	0x00000070	[  6] _$s8TestDemo13SceneDelegateC21sceneWillResignActiveyySo7UISceneCFTo
+0x1000036C0	0x00000020	[  6] _$s8TestDemo13SceneDelegateC24sceneWillEnterForegroundyySo7UISceneCF
+0x1000036E0	0x00000070	[  6] _$s8TestDemo13SceneDelegateC24sceneWillEnterForegroundyySo7UISceneCFTo
+0x100003750	0x00000020	[  6] _$s8TestDemo13SceneDelegateC23sceneDidEnterBackgroundyySo7UISceneCF
+0x100003770	0x00000070	[  6] _$s8TestDemo13SceneDelegateC23sceneDidEnterBackgroundyySo7UISceneCFTo
+0x1000037E0	0x00000050	[  6] _$s8TestDemo13SceneDelegateCfD
+0x100003830	0x00000040	[  6] _$s8TestDemo13SceneDelegateCMa
+0x100003870	0x00000050	[  6] _$s8TestDemo13SceneDelegateCfETo
+0x1000038C0	0x00000020	[  6] _$sSo8UIWindowCSgWOh
+0x1000038E0	0x00000020	[  6] _$s8TestDemo13SceneDelegateCACycfC
+0x100003900	0x00000100	[  6] _$s8TestDemo13SceneDelegateCACycfc
+0x100003A00	0x00000020	[  6] _$s8TestDemo13SceneDelegateCACycfcTo
+0x100003A20	0x00000040	[  6] _$sSo8UIWindowCSgWOc
+0x100003A60	0x00000006	[ 12] _$s10ObjectiveC22_convertBoolToObjCBoolyAA0eF0VSbF
+0x100003A66	0x00000006	[ 13] _$sSD10FoundationE36_unconditionallyBridgeFromObjectiveCySDyxq_GSo12NSDictionaryCSgFZ
+0x100003A6C	0x00000006	[ 13] _$sSS10FoundationE19_bridgeToObjectiveCSo8NSStringCyF
+0x100003A72	0x00000006	[ 13] _$sSS10FoundationE36_unconditionallyBridgeFromObjectiveCySSSo8NSStringCSgFZ
+0x100003A78	0x00000006	[ 11] _$sSS21_builtinStringLiteral17utf8CodeUnitCount7isASCIISSBp_BwBi1_tcfC
+0x100003A7E	0x00000006	[ 13] _$sSh10FoundationE36_unconditionallyBridgeFromObjectiveCyShyxGSo5NSSetCSgFZ
+0x100003A84	0x00000006	[ 11] _$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE04hashE0Sivg
+0x100003A8A	0x00000006	[ 11] _$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE08_rawHashE04seedS2i_tF
+0x100003A90	0x00000006	[ 11] _$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE20_toCustomAnyHashables0hI0VSgyF
+0x100003A96	0x00000006	[ 11] _$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE4hash4intoys6HasherVz_tF
+0x100003A9C	0x00000006	[ 11] _$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE016_forceBridgeFromD1C_6resultyAD_01_D5CTypeQZ_xSgztFZ
+0x100003AA2	0x00000006	[ 11] _$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE024_conditionallyBridgeFromD1C_6resultSbAD_01_D5CTypeQZ_xSgztFZ
+0x100003AA8	0x00000006	[ 11] _$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE026_unconditionallyBridgeFromD1CyxAD_01_D5CTypeQZSgFZ
+0x100003AAE	0x00000006	[ 11] _$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE09_bridgeToD1CAD_01_D5CTypeQZyF
+0x100003AB4	0x00000006	[ 11] _$ss27_allocateUninitializedArrayySayxG_BptBwlF
+0x100003ABA	0x00000006	[ 11] _$ss2eeoiySbx_xtSYRzSQ8RawValueRpzlF
+0x100003AC0	0x00000006	[ 11] _$ss5print_9separator10terminatoryypd_S2StF
+0x100003AC6	0x00000006	[  7] _NSStringFromClass
+0x100003ACC	0x00000006	[ 10] _UIApplicationMain
+0x100003AD2	0x00000006	[  9] _memset
+0x100003AD8	0x00000006	[  8] _objc_allocWithZone
+0x100003ADE	0x00000006	[  8] _objc_autoreleaseReturnValue
+0x100003AE4	0x00000006	[  8] _objc_msgSend
+0x100003AEA	0x00000006	[  8] _objc_msgSendSuper2
+0x100003AF0	0x00000006	[  8] _objc_retainAutoreleasedReturnValue
+0x100003AF6	0x00000006	[  8] _objc_storeStrong
+0x100003AFC	0x00000006	[ 11] _swift_beginAccess
+0x100003B02	0x00000006	[ 11] _swift_bridgeObjectRelease
+0x100003B08	0x00000006	[ 11] _swift_bridgeObjectRetain
+0x100003B0E	0x00000006	[ 11] _swift_dynamicCastObjCClass
+0x100003B14	0x00000006	[ 11] _swift_endAccess
+0x100003B1A	0x00000006	[ 11] _swift_getForeignTypeMetadata
+0x100003B20	0x00000006	[ 11] _swift_getInitializedObjCClass
+0x100003B26	0x00000006	[ 11] _swift_getObjCClassFromMetadata
+0x100003B2C	0x00000006	[ 11] _swift_getObjCClassMetadata
+0x100003B32	0x00000006	[ 11] _swift_getWitnessTable
+0x100003B38	0x00000010	[  0] helper helper
+0x100003B48	0x0000000A	[  7] _NSStringFromClass
+0x100003B52	0x0000000A	[  8] _objc_allocWithZone
+0x100003B5C	0x0000000A	[  8] _objc_autoreleaseReturnValue
+0x100003B66	0x0000000A	[  8] _objc_msgSend
+0x100003B70	0x0000000A	[  8] _objc_msgSendSuper2
+0x100003B7A	0x0000000A	[  8] _objc_retainAutoreleasedReturnValue
+0x100003B84	0x0000000A	[  8] _objc_storeStrong
+0x100003B8E	0x0000000A	[  9] _memset
+0x100003B98	0x0000000A	[ 10] _UIApplicationMain
+0x100003BA2	0x0000000A	[ 11] _$sSS21_builtinStringLiteral17utf8CodeUnitCount7isASCIISSBp_BwBi1_tcfC
+0x100003BAC	0x0000000A	[ 11] _$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE04hashE0Sivg
+0x100003BB6	0x0000000A	[ 11] _$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE08_rawHashE04seedS2i_tF
+0x100003BC0	0x0000000A	[ 11] _$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE20_toCustomAnyHashables0hI0VSgyF
+0x100003BCA	0x0000000A	[ 11] _$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE4hash4intoys6HasherVz_tF
+0x100003BD4	0x0000000A	[ 11] _$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE016_forceBridgeFromD1C_6resultyAD_01_D5CTypeQZ_xSgztFZ
+0x100003BDE	0x0000000A	[ 11] _$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE024_conditionallyBridgeFromD1C_6resultSbAD_01_D5CTypeQZ_xSgztFZ
+0x100003BE8	0x0000000A	[ 11] _$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE026_unconditionallyBridgeFromD1CyxAD_01_D5CTypeQZSgFZ
+0x100003BF2	0x0000000A	[ 11] _$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE09_bridgeToD1CAD_01_D5CTypeQZyF
+0x100003BFC	0x0000000A	[ 11] _$ss27_allocateUninitializedArrayySayxG_BptBwlF
+0x100003C06	0x0000000A	[ 11] _$ss2eeoiySbx_xtSYRzSQ8RawValueRpzlF
+0x100003C10	0x0000000A	[ 11] _$ss5print_9separator10terminatoryypd_S2StF
+0x100003C1A	0x0000000A	[ 11] _swift_beginAccess
+0x100003C24	0x0000000A	[ 11] _swift_bridgeObjectRelease
+0x100003C2E	0x0000000A	[ 11] _swift_bridgeObjectRetain
+0x100003C38	0x0000000A	[ 11] _swift_dynamicCastObjCClass
+0x100003C42	0x0000000A	[ 11] _swift_endAccess
+0x100003C4C	0x0000000A	[ 11] _swift_getForeignTypeMetadata
+0x100003C56	0x0000000A	[ 11] _swift_getInitializedObjCClass
+0x100003C60	0x0000000A	[ 11] _swift_getObjCClassFromMetadata
+0x100003C6A	0x0000000A	[ 11] _swift_getObjCClassMetadata
+0x100003C74	0x0000000A	[ 11] _swift_getWitnessTable
+0x100003C7E	0x0000000A	[ 12] _$s10ObjectiveC22_convertBoolToObjCBoolyAA0eF0VSbF
+0x100003C88	0x0000000A	[ 13] _$sSD10FoundationE36_unconditionallyBridgeFromObjectiveCySDyxq_GSo12NSDictionaryCSgFZ
+0x100003C92	0x0000000A	[ 13] _$sSS10FoundationE19_bridgeToObjectiveCSo8NSStringCyF
+0x100003C9C	0x0000000A	[ 13] _$sSS10FoundationE36_unconditionallyBridgeFromObjectiveCySSSo8NSStringCSgFZ
+0x100003CA6	0x0000000A	[ 13] _$sSh10FoundationE36_unconditionallyBridgeFromObjectiveCyShyxGSo5NSSetCSgFZ
+0x100003CB0	0x00000007	[  2] literal string: AYTest
+0x100003CB7	0x00000002	[  2] literal string: 
+0x100003CB9	0x0000000B	[  3] literal string: OtherClass
+0x100003CC4	0x0000000A	[  2] literal string: classOne:
+0x100003CCE	0x0000000A	[  2] literal string: classTwo:
+0x100003CD8	0x0000000D	[  2] literal string: instanceOne:
+0x100003CE5	0x0000000D	[  2] literal string: instanceTwo:
+0x100003CF2	0x00000004	[  2] literal string: age
+0x100003CF6	0x00000008	[  2] literal string: setAge:
+0x100003CFE	0x00000005	[  2] literal string: name
+0x100003D03	0x00000009	[  2] literal string: setName:
+0x100003D0C	0x0000000E	[  2] literal string: .cxx_destruct
+0x100003D1A	0x00000005	[  2] literal string: _age
+0x100003D1F	0x00000006	[  2] literal string: _name
+0x100003D25	0x0000000C	[  4] literal string: viewDidLoad
+0x100003D31	0x00000008	[  4] literal string: dealloc
+0x100003D39	0x00000018	[  4] literal string: initWithNibName:bundle:
+0x100003D51	0x0000000F	[  4] literal string: initWithCoder:
+0x100003D60	0x00000005	[  4] literal string: init
+0x100003D65	0x00000005	[  5] literal string: role
+0x100003D6A	0x0000002B	[  5] literal string: application:didFinishLaunchingWithOptions:
+0x100003D95	0x0000003C	[  5] literal string: application:configurationForConnectingSceneSession:options:
+0x100003DD1	0x00000025	[  5] literal string: application:didDiscardSceneSessions:
+0x100003DF6	0x0000001A	[  5] literal string: initWithName:sessionRole:
+0x100003E10	0x0000001F	[  5] literal string: applicationDidFinishLaunching:
+0x100003E2F	0x0000002C	[  5] literal string: application:willFinishLaunchingWithOptions:
+0x100003E5B	0x0000001C	[  5] literal string: applicationDidBecomeActive:
+0x100003E77	0x0000001D	[  5] literal string: applicationWillResignActive:
+0x100003E94	0x0000001B	[  5] literal string: application:handleOpenURL:
+0x100003EAF	0x00000032	[  5] literal string: application:openURL:sourceApplication:annotation:
+0x100003EE1	0x0000001D	[  5] literal string: application:openURL:options:
+0x100003EFE	0x00000024	[  5] literal string: applicationDidReceiveMemoryWarning:
+0x100003F22	0x0000001A	[  5] literal string: applicationWillTerminate:
+0x100003F3C	0x00000022	[  5] literal string: applicationSignificantTimeChange:
+0x100003F5E	0x00000035	[  5] literal string: application:willChangeStatusBarOrientation:duration:
+0x100003F93	0x0000002B	[  5] literal string: application:didChangeStatusBarOrientation:
+0x100003FBE	0x00000026	[  5] literal string: application:willChangeStatusBarFrame:
+0x100003FE4	0x00000025	[  5] literal string: application:didChangeStatusBarFrame:
+0x100004009	0x00000031	[  5] literal string: application:didRegisterUserNotificationSettings:
+0x10000403A	0x0000003E	[  5] literal string: application:didRegisterForRemoteNotificationsWithDeviceToken:
+0x100004078	0x0000003E	[  5] literal string: application:didFailToRegisterForRemoteNotificationsWithError:
+0x1000040B6	0x0000002A	[  5] literal string: application:didReceiveRemoteNotification:
+0x1000040E0	0x00000029	[  5] literal string: application:didReceiveLocalNotification:
+0x100004109	0x0000004F	[  5] literal string: application:handleActionWithIdentifier:forLocalNotification:completionHandler:
+0x100004158	0x00000061	[  5] literal string: application:handleActionWithIdentifier:forRemoteNotification:withResponseInfo:completionHandler:
+0x1000041B9	0x00000050	[  5] literal string: application:handleActionWithIdentifier:forRemoteNotification:completionHandler:
+0x100004209	0x00000060	[  5] literal string: application:handleActionWithIdentifier:forLocalNotification:withResponseInfo:completionHandler:
+0x100004269	0x00000041	[  5] literal string: application:didReceiveRemoteNotification:fetchCompletionHandler:
+0x1000042AA	0x0000002F	[  5] literal string: application:performFetchWithCompletionHandler:
+0x1000042D9	0x0000003C	[  5] literal string: application:performActionForShortcutItem:completionHandler:
+0x100004315	0x00000043	[  5] literal string: application:handleEventsForBackgroundURLSession:completionHandler:
+0x100004358	0x00000032	[  5] literal string: application:handleWatchKitExtensionRequest:reply:
+0x10000438A	0x0000002D	[  5] literal string: applicationShouldRequestHealthAuthorization:
+0x1000043B7	0x0000001F	[  5] literal string: applicationDidEnterBackground:
+0x1000043D6	0x00000020	[  5] literal string: applicationWillEnterForeground:
+0x1000043F6	0x0000002F	[  5] literal string: applicationProtectedDataWillBecomeUnavailable:
+0x100004425	0x0000002C	[  5] literal string: applicationProtectedDataDidBecomeAvailable:
+0x100004451	0x00000007	[  5] literal string: window
+0x100004458	0x0000000B	[  5] literal string: setWindow:
+0x100004463	0x00000035	[  5] literal string: application:supportedInterfaceOrientationsForWindow:
+0x100004498	0x00000031	[  5] literal string: application:shouldAllowExtensionPointIdentifier:
+0x1000044C9	0x0000003F	[  5] literal string: application:viewControllerWithRestorationIdentifierPath:coder:
+0x100004508	0x0000002E	[  5] literal string: application:shouldSaveSecureApplicationState:
+0x100004536	0x00000031	[  5] literal string: application:shouldRestoreSecureApplicationState:
+0x100004567	0x00000030	[  5] literal string: application:willEncodeRestorableStateWithCoder:
+0x100004597	0x0000002F	[  5] literal string: application:didDecodeRestorableStateWithCoder:
+0x1000045C6	0x00000028	[  5] literal string: application:shouldSaveApplicationState:
+0x1000045EE	0x0000002B	[  5] literal string: application:shouldRestoreApplicationState:
+0x100004619	0x0000002E	[  5] literal string: application:willContinueUserActivityWithType:
+0x100004647	0x00000035	[  5] literal string: application:continueUserActivity:restorationHandler:
+0x10000467C	0x00000039	[  5] literal string: application:didFailToContinueUserActivityWithType:error:
+0x1000046B5	0x00000023	[  5] literal string: application:didUpdateUserActivity:
+0x1000046D8	0x00000009	[  5] literal string: isEqual:
+0x1000046E1	0x00000005	[  5] literal string: hash
+0x1000046E6	0x0000000B	[  5] literal string: superclass
+0x1000046F1	0x00000006	[  5] literal string: class
+0x1000046F7	0x00000005	[  5] literal string: self
+0x1000046FC	0x00000011	[  5] literal string: performSelector:
+0x10000470D	0x0000001C	[  5] literal string: performSelector:withObject:
+0x100004729	0x00000027	[  5] literal string: performSelector:withObject:withObject:
+0x100004750	0x00000008	[  5] literal string: isProxy
+0x100004758	0x0000000F	[  5] literal string: isKindOfClass:
+0x100004767	0x00000011	[  5] literal string: isMemberOfClass:
+0x100004778	0x00000014	[  5] literal string: conformsToProtocol:
+0x10000478C	0x00000014	[  5] literal string: respondsToSelector:
+0x1000047A0	0x00000007	[  5] literal string: retain
+0x1000047A7	0x00000008	[  5] literal string: release
+0x1000047AF	0x0000000C	[  5] literal string: autorelease
+0x1000047BB	0x0000000C	[  5] literal string: retainCount
+0x1000047C7	0x00000005	[  5] literal string: zone
+0x1000047CC	0x0000000C	[  5] literal string: description
+0x1000047D8	0x00000011	[  5] literal string: debugDescription
+0x1000047E9	0x00000024	[  6] literal string: scene:willConnectToSession:options:
+0x10000480D	0x00000014	[  6] literal string: sceneDidDisconnect:
+0x100004821	0x00000016	[  6] literal string: sceneDidBecomeActive:
+0x100004837	0x00000017	[  6] literal string: sceneWillResignActive:
+0x10000484E	0x0000001A	[  6] literal string: sceneWillEnterForeground:
+0x100004868	0x00000019	[  6] literal string: sceneDidEnterBackground:
+0x100004881	0x0000004B	[  6] literal string: windowScene:didUpdateCoordinateSpace:interfaceOrientation:traitCollection:
+0x1000048CC	0x0000003C	[  6] literal string: windowScene:performActionForShortcutItem:completionHandler:
+0x100004908	0x00000017	[  6] literal string: scene:openURLContexts:
+0x10000491F	0x00000022	[  6] literal string: stateRestorationActivityForScene:
+0x100004941	0x00000028	[  6] literal string: scene:willContinueUserActivityWithType:
+0x100004969	0x0000001C	[  6] literal string: scene:continueUserActivity:
+0x100004985	0x00000033	[  6] literal string: scene:didFailToContinueUserActivityWithType:error:
+0x1000049B8	0x0000001D	[  6] literal string: scene:didUpdateUserActivity:
+0x1000049D5	0x0000000B	[  2] literal string: q20@0:8B16
+0x1000049E0	0x00000008	[  2] literal string: q16@0:8
+0x1000049E8	0x0000000B	[  2] literal string: v24@0:8q16
+0x1000049F3	0x00000008	[  2] literal string: @16@0:8
+0x1000049FB	0x0000000B	[  2] literal string: v24@0:8@16
+0x100004A06	0x00000008	[  2] literal string: v16@0:8
+0x100004A0E	0x00000002	[  2] literal string: q
+0x100004A10	0x0000000C	[  2] literal string: @"NSString"
+0x100004A20	0x00000004	[  2] literal string: age
+0x100004A24	0x0000000B	[  2] literal string: Tq,N,V_age
+0x100004A2F	0x00000005	[  2] literal string: name
+0x100004A34	0x00000018	[  2] literal string: T@"NSString",&,N,V_name
+0x100004A50	0x00000006	[  4] literal string: April
+0x100004A60	0x0000001E	[  4] literal string: _TtC8TestDemo14ViewController
+0x100004A86	0x0000000E	[  4] literal string: @32@0:8@16@24
+0x100004A9F	0x00000002	[  4] literal string: \n
+0x100004AA1	0x00000002	[  4] literal string:  
+0x100004AB0	0x00000016	[  5] literal string: Default Configuration
+0x100004AD0	0x0000001B	[  5] literal string: _TtC8TestDemo11AppDelegate
+0x100004AEB	0x0000000E	[  5] literal string: B32@0:8@16@24
+0x100004B00	0x00000011	[  5] literal string: @40@0:8@16@24@32
+0x100004B1F	0x00000008	[  5] literal string: @16@0:8
+0x100004B30	0x00000016	[  5] literal string: UIApplicationDelegate
+0x100004B46	0x0000000B	[  5] literal string: v24@0:8@16
+0x100004B60	0x00000014	[  5] literal string: B48@0:8@16@24@32@40
+0x100004B80	0x00000011	[  5] literal string: B40@0:8@16@24@32
+0x100004BA0	0x00000011	[  5] literal string: v40@0:8@16q24d32
+0x100004BB1	0x0000000E	[  5] literal string: v32@0:8@16q24
+0x100004BC0	0x0000002D	[  5] literal string: v56@0:8@16{CGRect={CGPoint=dd}{CGSize=dd}}24
+0x100004BF0	0x00000015	[  5] literal string: v48@0:8@16@24@32@?40
+0x100004C10	0x00000018	[  5] literal string: v56@0:8@16@24@32@40@?48
+0x100004C30	0x00000012	[  5] literal string: v40@0:8@16@24@?32
+0x100004C42	0x0000000F	[  5] literal string: v32@0:8@16@?24
+0x100004C51	0x0000000E	[  5] literal string: Q32@0:8@16@24
+0x100004C60	0x00000012	[  5] literal string: B40@0:8@16@24@?32
+0x100004C80	0x00000011	[  5] literal string: v40@0:8@16@24@32
+0x100004C91	0x00000007	[  5] literal string: window
+0x100004CA0	0x00000011	[  5] literal string: T@"UIWindow",N,&
+0x100004CC0	0x0000001A	[  5] literal string: v24@0:8@"UIApplication"16
+0x100004CE0	0x0000002B	[  5] literal string: B32@0:8@"UIApplication"16@"NSDictionary"24
+0x100004D10	0x00000024	[  5] literal string: B32@0:8@"UIApplication"16@"NSURL"24
+0x100004D40	0x00000034	[  5] literal string: B48@0:8@"UIApplication"16@"NSURL"24@"NSString"32@40
+0x100004D80	0x00000035	[  5] literal string: B40@0:8@"UIApplication"16@"NSURL"24@"NSDictionary"32
+0x100004DC0	0x00000020	[  5] literal string: v40@0:8@"UIApplication"16q24d32
+0x100004DE0	0x0000001D	[  5] literal string: v32@0:8@"UIApplication"16q24
+0x100004E00	0x0000003C	[  5] literal string: v56@0:8@"UIApplication"16{CGRect={CGPoint=dd}{CGSize=dd}}24
+0x100004E40	0x00000039	[  5] literal string: v32@0:8@"UIApplication"16@"UIUserNotificationSettings"24
+0x100004E80	0x00000025	[  5] literal string: v32@0:8@"UIApplication"16@"NSData"24
+0x100004EB0	0x00000026	[  5] literal string: v32@0:8@"UIApplication"16@"NSError"24
+0x100004EE0	0x0000002B	[  5] literal string: v32@0:8@"UIApplication"16@"NSDictionary"24
+0x100004F10	0x00000032	[  5] literal string: v32@0:8@"UIApplication"16@"UILocalNotification"24
+0x100004F50	0x00000048	[  5] literal string: v48@0:8@"UIApplication"16@"NSString"24@"UILocalNotification"32@?<v@?>40
+0x100004FA0	0x00000052	[  5] literal string: v56@0:8@"UIApplication"16@"NSString"24@"NSDictionary"32@"NSDictionary"40@?<v@?>48
+0x100005000	0x00000041	[  5] literal string: v48@0:8@"UIApplication"16@"NSString"24@"NSDictionary"32@?<v@?>40
+0x100005050	0x00000059	[  5] literal string: v56@0:8@"UIApplication"16@"NSString"24@"UILocalNotification"32@"NSDictionary"40@?<v@?>48
+0x1000050B0	0x00000035	[  5] literal string: v40@0:8@"UIApplication"16@"NSDictionary"24@?<v@?Q>32
+0x1000050F0	0x00000024	[  5] literal string: v32@0:8@"UIApplication"16@?<v@?Q>24
+0x100005120	0x00000042	[  5] literal string: v40@0:8@"UIApplication"16@"UIApplicationShortcutItem"24@?<v@?B>32
+0x100005170	0x00000030	[  5] literal string: v40@0:8@"UIApplication"16@"NSString"24@?<v@?>32
+0x1000051A0	0x00000043	[  5] literal string: v40@0:8@"UIApplication"16@"NSDictionary"24@?<v@?@"NSDictionary">32
+0x1000051F0	0x00000012	[  5] literal string: @"UIWindow"16@0:8
+0x100005210	0x00000015	[  5] literal string: v24@0:8@"UIWindow"16
+0x100005230	0x00000027	[  5] literal string: Q32@0:8@"UIApplication"16@"UIWindow"24
+0x100005260	0x00000027	[  5] literal string: B32@0:8@"UIApplication"16@"NSString"24
+0x100005290	0x00000044	[  5] literal string: @"UIViewController"40@0:8@"UIApplication"16@"NSArray"24@"NSCoder"32
+0x1000052E0	0x00000026	[  5] literal string: B32@0:8@"UIApplication"16@"NSCoder"24
+0x100005310	0x00000026	[  5] literal string: v32@0:8@"UIApplication"16@"NSCoder"24
+0x100005340	0x00000040	[  5] literal string: B40@0:8@"UIApplication"16@"NSUserActivity"24@?<v@?@"NSArray">32
+0x100005380	0x00000033	[  5] literal string: v40@0:8@"UIApplication"16@"NSString"24@"NSError"32
+0x1000053C0	0x0000002D	[  5] literal string: v32@0:8@"UIApplication"16@"NSUserActivity"24
+0x1000053F0	0x00000060	[  5] literal string: @"UISceneConfiguration"40@0:8@"UIApplication"16@"UISceneSession"24@"UISceneConnectionOptions"32
+0x100005450	0x00000024	[  5] literal string: v32@0:8@"UIApplication"16@"NSSet"24
+0x100005474	0x00000009	[  5] literal string: NSObject
+0x100005488	0x00000008	[  5] literal string: q16@0:8
+0x100005490	0x00000008	[  5] literal string: #16@0:8
+0x100005498	0x0000000C	[  5] literal string: ^@24@0:8:16
+0x1000054A4	0x0000000F	[  5] literal string: ^@32@0:8:16@24
+0x1000054C0	0x00000012	[  5] literal string: ^@40@0:8:16@24@32
+0x1000054D2	0x00000008	[  5] literal string: B16@0:8
+0x1000054DA	0x0000000B	[  5] literal string: B24@0:8#16
+0x1000054E5	0x0000000B	[  5] literal string: B24@0:8:16
+0x1000054F0	0x00000008	[  5] literal string: v16@0:8
+0x100005501	0x00000005	[  5] literal string: hash
+0x100005506	0x00000007	[  5] literal string: Tq,N,R
+0x10000550D	0x0000000B	[  5] literal string: superclass
+0x10000551F	0x0000000C	[  5] literal string: description
+0x100005530	0x00000011	[  5] literal string: T@"NSString",N,R
+0x100005550	0x00000011	[  5] literal string: debugDescription
+0x100005570	0x00000015	[  5] literal string: B24@0:8@"Protocol"16
+0x100005590	0x00000012	[  5] literal string: @"NSString"16@0:8
+0x1000055B0	0x0000001D	[  6] literal string: _TtC8TestDemo13SceneDelegate
+0x1000055D0	0x00000001	[  6] literal string: 
+0x1000055E0	0x00000019	[  6] literal string: T@"UIWindow",N,&,Vwindow
+0x100005600	0x00000016	[  6] literal string: UIWindowSceneDelegate
+0x100005620	0x00000014	[  6] literal string: v48@0:8@16@24q32@40
+0x100005640	0x0000004B	[  6] literal string: v48@0:8@"UIWindowScene"16@"<UICoordinateSpace>"24q32@"UITraitCollection"40
+0x100005690	0x00000042	[  6] literal string: v40@0:8@"UIWindowScene"16@"UIApplicationShortcutItem"24@?<v@?B>32
+0x1000056D2	0x00000010	[  6] literal string: UISceneDelegate
+0x1000056E2	0x0000000E	[  6] literal string: v32@0:8@16@24
+0x1000056F0	0x0000000B	[  6] literal string: @24@0:8@16
+0x100005700	0x00000044	[  6] literal string: v40@0:8@"UIScene"16@"UISceneSession"24@"UISceneConnectionOptions"32
+0x100005750	0x00000014	[  6] literal string: v24@0:8@"UIScene"16
+0x100005770	0x0000001E	[  6] literal string: v32@0:8@"UIScene"16@"NSSet"24
+0x100005790	0x00000024	[  6] literal string: @"NSUserActivity"24@0:8@"UIScene"16
+0x1000057C0	0x00000021	[  6] literal string: v32@0:8@"UIScene"16@"NSString"24
+0x1000057F0	0x00000027	[  6] literal string: v32@0:8@"UIScene"16@"NSUserActivity"24
+0x100005820	0x0000002D	[  6] literal string: v40@0:8@"UIScene"16@"NSString"24@"NSError"32
+0x100005856	0x0000000B	[  6] literal string: B24@0:8@16
+0x100005870	0x00000009	[  6] literal string: ^v16@0:8
+0x100005880	0x00000007	[  6] literal string: T#,N,R
+0x100005890	0x0000000C	[  4] l___unnamed_8
+0x10000589C	0x0000000C	[  4] _$s8TestDemoMXM
+0x1000058A8	0x00000010	[  4] l___unnamed_9
+0x1000058B8	0x0000002C	[  4] _$s8TestDemo14ViewControllerCMn
+0x1000058E8	0x0000000C	[  5] l___unnamed_9
+0x1000058F4	0x00000034	[  5] _$s8TestDemo11AppDelegateCMn
+0x100005928	0x00000008	[  5] _$s8TestDemo11AppDelegateC11application_29didFinishLaunchingWithOptionsSbSo13UIApplicationC_SDySo0k6LaunchJ3KeyaypGSgtFTq
+0x100005930	0x00000008	[  5] _$s8TestDemo11AppDelegateC11application_26configurationForConnecting7optionsSo20UISceneConfigurationCSo13UIApplicationC_So0J7SessionCSo0J17ConnectionOptionsCtFTq
+0x100005938	0x00000008	[  5] _$s8TestDemo11AppDelegateC11application_23didDiscardSceneSessionsySo13UIApplicationC_ShySo14UISceneSessionCGtFTq
+0x100005940	0x00000004	[  5] l___unnamed_10
+0x100005944	0x0000000C	[  5] _$sSoMXM
+0x100005950	0x00000034	[  5] l___unnamed_11
+0x100005984	0x00000020	[  5] _$sSo29UIApplicationLaunchOptionsKeyaMn
+0x1000059A4	0x00000008	[  5] l___unnamed_13
+0x1000059AC	0x0000000C	[  5] _$s5UIKitMXM
+0x1000059B8	0x0000002C	[  5] _$sSo29UIApplicationLaunchOptionsKeyas35_HasCustomAnyHashableRepresentationSCMc
+0x1000059E4	0x0000003C	[  5] _$sSo29UIApplicationLaunchOptionsKeyaSYSCMc
+0x100005A20	0x00000034	[  5] _$sSo29UIApplicationLaunchOptionsKeyas20_SwiftNewtypeWrapperSCMc
+0x100005A54	0x0000002C	[  5] _$sSo29UIApplicationLaunchOptionsKeyaSQSCMc
+0x100005A80	0x0000004C	[  5] _$sSo29UIApplicationLaunchOptionsKeyas21_ObjectiveCBridgeableSCMc
+0x100005ACC	0x00000044	[  5] _$sSo29UIApplicationLaunchOptionsKeyaSHSCMc
+0x100005B10	0x00000002	[  5] ___swift_reflection_version
+0x100005B14	0x00000010	[  6] l___unnamed_11
+0x100005B24	0x00000034	[  6] _$s8TestDemo13SceneDelegateCMn
+0x100005B58	0x00000008	[  6] _$s8TestDemo13SceneDelegateC6windowSo8UIWindowCSgvgTq
+0x100005B60	0x00000008	[  6] _$s8TestDemo13SceneDelegateC6windowSo8UIWindowCSgvsTq
+0x100005B68	0x00000008	[  6] _$s8TestDemo13SceneDelegateC6windowSo8UIWindowCSgvMTq
+0x100005B70	0x00000008	[  6] _$s8TestDemo13SceneDelegateC5scene_13willConnectTo7optionsySo7UISceneC_So0J7SessionCSo0J17ConnectionOptionsCtFTq
+0x100005B78	0x00000008	[  6] _$s8TestDemo13SceneDelegateC18sceneDidDisconnectyySo7UISceneCFTq
+0x100005B80	0x00000008	[  6] _$s8TestDemo13SceneDelegateC20sceneDidBecomeActiveyySo7UISceneCFTq
+0x100005B88	0x00000008	[  6] _$s8TestDemo13SceneDelegateC21sceneWillResignActiveyySo7UISceneCFTq
+0x100005B90	0x00000008	[  6] _$s8TestDemo13SceneDelegateC24sceneWillEnterForegroundyySo7UISceneCFTq
+0x100005B98	0x00000008	[  6] _$s8TestDemo13SceneDelegateC23sceneDidEnterBackgroundyySo7UISceneCFTq
+0x100005BA0	0x00000016	[  4] _symbolic So16UIViewControllerC
+0x100005BB6	0x00000006	[  4] _symbolic _____ 8TestDemo14ViewControllerC
+0x100005BBC	0x00000012	[  5] _symbolic So11UIResponderC
+0x100005BCE	0x00000006	[  5] _symbolic _____ 8TestDemo11AppDelegateC
+0x100005BD4	0x00000006	[  5] _symbolic _____ So29UIApplicationLaunchOptionsKeya
+0x100005BDA	0x0000000E	[  5] _symbolic So8NSStringC
+0x100005BE8	0x00000004	[  5] _symbolic SS
+0x100005BEC	0x00000008	[  5] _associated conformance So29UIApplicationLaunchOptionsKeyas20_SwiftNewtypeWrapperSCSY
+0x100005BF4	0x00000008	[  5] _associated conformance So29UIApplicationLaunchOptionsKeyas20_SwiftNewtypeWrapperSCs35_HasCustomAnyHashableRepresentation
+0x100005BFC	0x00000008	[  5] _associated conformance So29UIApplicationLaunchOptionsKeyaSHSCSQ
+0x100005C04	0x00000006	[  5] _symbolic $sSY
+0x100005C0A	0x0000001C	[  5] _symbolic $ss21_ObjectiveCBridgeableP
+0x100005C26	0x00000006	[  6] _symbolic _____ 8TestDemo13SceneDelegateC
+0x100005C2C	0x0000000F	[  6] _symbolic So8UIWindowCSg
+0x100005C3C	0x00000010	[  4] _$s8TestDemo14ViewControllerCMF
+0x100005C4C	0x00000010	[  5] _$s8TestDemo11AppDelegateCMF
+0x100005C5C	0x0000001C	[  5] _$sSo29UIApplicationLaunchOptionsKeyaMF
+0x100005C78	0x0000001C	[  6] _$s8TestDemo13SceneDelegateCMF
+0x100005C94	0x00000004	[  4] l_type_metadata_table
+0x100005C98	0x00000008	[  5] l_type_metadata_table
+0x100005CA0	0x00000004	[  6] l_type_metadata_table
+0x100005CA4	0x00000014	[  5] _$sSo29UIApplicationLaunchOptionsKeyaMB
+0x100005CB8	0x00000023	[  5] anon
+0x100005CDB	0x00000007	[  6] anon
+0x100005CE4	0x00000018	[  5] _$sSo29UIApplicationLaunchOptionsKeyaSYSCMA
+0x100005CFC	0x00000018	[  5] _$sSo29UIApplicationLaunchOptionsKeyas21_ObjectiveCBridgeableSCMA
+0x100005D14	0x00000018	[  5] l_protocol_conformances
+0x100005D2C	0x00000176	[  1] opaque_section
+0x100005EA4	0x00000150	[  0] compact unwind info
+0x100006000	0x00000008	[  0] non-lazy-pointer-to-local: _$s15_ObjectiveCTypes01_A11CBridgeablePTl
+0x100006008	0x00000008	[  0] non-lazy-pointer-to-local: _$s8RawValueSYTl
+0x100006010	0x00000008	[  0] non-lazy-pointer-to-local: _$sSH13_rawHashValue4seedS2i_tFTq
+0x100006018	0x00000008	[  0] non-lazy-pointer-to-local: _$sSH4hash4intoys6HasherVz_tFTq
+0x100006020	0x00000008	[  0] non-lazy-pointer-to-local: _$sSH9hashValueSivgTq
+0x100006028	0x00000008	[  0] non-lazy-pointer-to-local: _$sSHMp
+0x100006030	0x00000008	[  0] non-lazy-pointer-to-local: _$sSHSQTb
+0x100006038	0x00000008	[  0] non-lazy-pointer-to-local: _$sSQ2eeoiySbx_xtFZTq
+0x100006040	0x00000008	[  0] non-lazy-pointer-to-local: _$sSQMp
+0x100006048	0x00000008	[  0] non-lazy-pointer-to-local: _$sSSN
+0x100006050	0x00000008	[  0] non-lazy-pointer-to-local: _$sSSSHsWP
+0x100006058	0x00000008	[  0] non-lazy-pointer-to-local: _$sSSSQsWP
+0x100006060	0x00000008	[  0] non-lazy-pointer-to-local: _$sSSs21_ObjectiveCBridgeable10FoundationMc
+0x100006068	0x00000008	[  0] non-lazy-pointer-to-local: _$sSY8rawValue03RawB0QzvgTq
+0x100006070	0x00000008	[  0] non-lazy-pointer-to-local: _$sSY8rawValuexSg03RawB0Qz_tcfCTq
+0x100006078	0x00000008	[  0] non-lazy-pointer-to-local: _$sSYMp
+0x100006080	0x00000008	[  0] non-lazy-pointer-to-local: _$sSiN
+0x100006088	0x00000008	[  0] non-lazy-pointer-to-local: _$sSo8NSObjectCSH10ObjectiveCMc
+0x100006090	0x00000008	[  0] non-lazy-pointer-to-local: _$ss20_SwiftNewtypeWrapperMp
+0x100006098	0x00000008	[  0] non-lazy-pointer-to-local: _$ss20_SwiftNewtypeWrapperPSYTb
+0x1000060A0	0x00000008	[  0] non-lazy-pointer-to-local: _$ss20_SwiftNewtypeWrapperPs35_HasCustomAnyHashableRepresentationTb
+0x1000060A8	0x00000008	[  0] non-lazy-pointer-to-local: _$ss21_ObjectiveCBridgeableMp
+0x1000060B0	0x00000008	[  0] non-lazy-pointer-to-local: _$ss21_ObjectiveCBridgeableP016_forceBridgeFromA1C_6resulty01_A5CTypeQz_xSgztFZTq
+0x1000060B8	0x00000008	[  0] non-lazy-pointer-to-local: _$ss21_ObjectiveCBridgeableP024_conditionallyBridgeFromA1C_6resultSb01_A5CTypeQz_xSgztFZTq
+0x1000060C0	0x00000008	[  0] non-lazy-pointer-to-local: _$ss21_ObjectiveCBridgeableP026_unconditionallyBridgeFromA1Cyx01_A5CTypeQzSgFZTq
+0x1000060C8	0x00000008	[  0] non-lazy-pointer-to-local: _$ss21_ObjectiveCBridgeableP09_bridgeToA1C01_A5CTypeQzyFTq
+0x1000060D0	0x00000008	[  0] non-lazy-pointer-to-local: _$ss35_HasCustomAnyHashableRepresentationMp
+0x1000060D8	0x00000008	[  0] non-lazy-pointer-to-local: _$ss35_HasCustomAnyHashableRepresentationP03_tobcD0s0cD0VSgyFTq
+0x1000060E0	0x00000008	[  0] non-lazy-pointer-to-local: _$sypN
+0x1000060E8	0x00000008	[  0] non-lazy-pointer-to-local: _objc_release
+0x1000060F0	0x00000008	[  0] non-lazy-pointer-to-local: _objc_retain
+0x1000060F8	0x00000008	[  0] non-lazy-pointer-to-local: _swift_isaMask
+0x100006100	0x00000008	[  0] non-lazy-pointer-to-local: dyld_stub_binder
+0x100006108	0x00000020	[  5] _$sSo29UIApplicationLaunchOptionsKeyaMf
+0x100006128	0x00000010	[  6] _$s8TestDemo13SceneDelegateC6windowSo8UIWindowCSgvpMV
+0x100006138	0x00000008	[  2] _OBJC_LABEL_CLASS_$
+0x100006140	0x00000008	[  3] _OBJC_LABEL_CLASS_$
+0x100006148	0x00000008	[  4] _objc_classes
+0x100006150	0x00000008	[  5] _objc_classes
+0x100006158	0x00000008	[  6] _objc_classes
+0x100006160	0x00000008	[  5] l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+0x100006168	0x00000008	[  5] l_OBJC_LABEL_PROTOCOL_$_NSObject
+0x100006170	0x00000008	[  6] l_OBJC_LABEL_PROTOCOL_$_UIWindowSceneDelegate
+0x100006178	0x00000008	[  6] l_OBJC_LABEL_PROTOCOL_$_UISceneDelegate
+0x100006180	0x00000008	[  0] objc image info
+0x100007000	0x00000008	[ 12] _$s10ObjectiveC22_convertBoolToObjCBoolyAA0eF0VSbF
+0x100007008	0x00000008	[ 13] _$sSD10FoundationE36_unconditionallyBridgeFromObjectiveCySDyxq_GSo12NSDictionaryCSgFZ
+0x100007010	0x00000008	[ 13] _$sSS10FoundationE19_bridgeToObjectiveCSo8NSStringCyF
+0x100007018	0x00000008	[ 13] _$sSS10FoundationE36_unconditionallyBridgeFromObjectiveCySSSo8NSStringCSgFZ
+0x100007020	0x00000008	[ 11] _$sSS21_builtinStringLiteral17utf8CodeUnitCount7isASCIISSBp_BwBi1_tcfC
+0x100007028	0x00000008	[ 13] _$sSh10FoundationE36_unconditionallyBridgeFromObjectiveCyShyxGSo5NSSetCSgFZ
+0x100007030	0x00000008	[ 11] _$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE04hashE0Sivg
+0x100007038	0x00000008	[ 11] _$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE08_rawHashE04seedS2i_tF
+0x100007040	0x00000008	[ 11] _$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE20_toCustomAnyHashables0hI0VSgyF
+0x100007048	0x00000008	[ 11] _$ss20_SwiftNewtypeWrapperPsSHRzSH8RawValueSYRpzrlE4hash4intoys6HasherVz_tF
+0x100007050	0x00000008	[ 11] _$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE016_forceBridgeFromD1C_6resultyAD_01_D5CTypeQZ_xSgztFZ
+0x100007058	0x00000008	[ 11] _$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE024_conditionallyBridgeFromD1C_6resultSbAD_01_D5CTypeQZ_xSgztFZ
+0x100007060	0x00000008	[ 11] _$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE026_unconditionallyBridgeFromD1CyxAD_01_D5CTypeQZSgFZ
+0x100007068	0x00000008	[ 11] _$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE09_bridgeToD1CAD_01_D5CTypeQZyF
+0x100007070	0x00000008	[ 11] _$ss27_allocateUninitializedArrayySayxG_BptBwlF
+0x100007078	0x00000008	[ 11] _$ss2eeoiySbx_xtSYRzSQ8RawValueRpzlF
+0x100007080	0x00000008	[ 11] _$ss5print_9separator10terminatoryypd_S2StF
+0x100007088	0x00000008	[  7] _NSStringFromClass
+0x100007090	0x00000008	[ 10] _UIApplicationMain
+0x100007098	0x00000008	[  9] _memset
+0x1000070A0	0x00000008	[  8] _objc_allocWithZone
+0x1000070A8	0x00000008	[  8] _objc_autoreleaseReturnValue
+0x1000070B0	0x00000008	[  8] _objc_msgSend
+0x1000070B8	0x00000008	[  8] _objc_msgSendSuper2
+0x1000070C0	0x00000008	[  8] _objc_retainAutoreleasedReturnValue
+0x1000070C8	0x00000008	[  8] _objc_storeStrong
+0x1000070D0	0x00000008	[ 11] _swift_beginAccess
+0x1000070D8	0x00000008	[ 11] _swift_bridgeObjectRelease
+0x1000070E0	0x00000008	[ 11] _swift_bridgeObjectRetain
+0x1000070E8	0x00000008	[ 11] _swift_dynamicCastObjCClass
+0x1000070F0	0x00000008	[ 11] _swift_endAccess
+0x1000070F8	0x00000008	[ 11] _swift_getForeignTypeMetadata
+0x100007100	0x00000008	[ 11] _swift_getInitializedObjCClass
+0x100007108	0x00000008	[ 11] _swift_getObjCClassFromMetadata
+0x100007110	0x00000008	[ 11] _swift_getObjCClassMetadata
+0x100007118	0x00000008	[ 11] _swift_getWitnessTable
+0x100007120	0x00000038	[  2] __OBJC_$_CLASS_METHODS_AYTest
+0x100007158	0x00000048	[  2] __OBJC_METACLASS_RO_$_AYTest
+0x1000071A0	0x000000B0	[  2] __OBJC_$_INSTANCE_METHODS_AYTest
+0x100007250	0x00000048	[  2] __OBJC_$_INSTANCE_VARIABLES_AYTest
+0x100007298	0x00000028	[  2] __OBJC_$_PROP_LIST_AYTest
+0x1000072C0	0x00000048	[  2] __OBJC_CLASS_RO_$_AYTest
+0x100007308	0x00000038	[  3] __OBJC_$_CLASS_METHODS_OtherClass
+0x100007340	0x00000048	[  3] __OBJC_METACLASS_RO_$_OtherClass
+0x100007388	0x000000B0	[  3] __OBJC_$_INSTANCE_METHODS_OtherClass
+0x100007438	0x00000048	[  3] __OBJC_$_INSTANCE_VARIABLES_OtherClass
+0x100007480	0x00000028	[  3] __OBJC_$_PROP_LIST_OtherClass
+0x1000074A8	0x00000048	[  3] __OBJC_CLASS_RO_$_OtherClass
+0x1000074F0	0x00000048	[  4] l__METACLASS_DATA__TtC8TestDemo14ViewController
+0x100007538	0x00000050	[  4] l__INSTANCE_METHODS__TtC8TestDemo14ViewController
+0x100007588	0x00000048	[  4] l__DATA__TtC8TestDemo14ViewController
+0x1000075D0	0x00000060	[  5] l__PROTOCOL_UIApplicationDelegate
+0x100007630	0x00000010	[  5] l__PROTOCOLS__TtC8TestDemo11AppDelegate
+0x100007640	0x00000048	[  5] l__METACLASS_DATA__TtC8TestDemo11AppDelegate
+0x100007688	0x00000068	[  5] l__INSTANCE_METHODS__TtC8TestDemo11AppDelegate
+0x1000076F0	0x00000010	[  5] l__PROTOCOLS__TtC8TestDemo11AppDelegate.1
+0x100007700	0x00000048	[  5] l__DATA__TtC8TestDemo11AppDelegate
+0x100007748	0x00000060	[  5] l__PROTOCOL_NSObject
+0x1000077A8	0x00000010	[  5] l__PROTOCOL_PROTOCOLS_UIApplicationDelegate
+0x1000077B8	0x00000620	[  5] l__PROTOCOL_INSTANCE_METHODS_OPT_UIApplicationDelegate
+0x100007DD8	0x00000018	[  5] l__PROTOCOL_PROPERTIES_UIApplicationDelegate
+0x100007DF0	0x00000208	[  5] l__PROTOCOL_METHOD_TYPES_UIApplicationDelegate
+0x100007FF8	0x00000278	[  5] l__PROTOCOL_INSTANCE_METHODS_NSObject
+0x100008270	0x00000020	[  5] l__PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+0x100008290	0x00000048	[  5] l__PROTOCOL_PROPERTIES_NSObject
+0x1000082D8	0x000000D8	[  5] l__PROTOCOL_METHOD_TYPES_NSObject
+0x1000083B0	0x00000060	[  6] l__PROTOCOL_UIWindowSceneDelegate
+0x100008410	0x00000010	[  6] l__PROTOCOLS__TtC8TestDemo13SceneDelegate
+0x100008420	0x00000048	[  6] l__METACLASS_DATA__TtC8TestDemo13SceneDelegate
+0x100008468	0x000000F8	[  6] l__INSTANCE_METHODS__TtC8TestDemo13SceneDelegate
+0x100008560	0x00000010	[  6] l__PROTOCOLS__TtC8TestDemo13SceneDelegate.1
+0x100008570	0x00000028	[  6] l__IVARS__TtC8TestDemo13SceneDelegate
+0x100008598	0x00000018	[  6] l__PROPERTIES__TtC8TestDemo13SceneDelegate
+0x1000085B0	0x00000048	[  6] l__DATA__TtC8TestDemo13SceneDelegate
+0x1000085F8	0x00000060	[  6] l__PROTOCOL_UISceneDelegate
+0x100008658	0x00000010	[  6] l__PROTOCOL_PROTOCOLS_UIWindowSceneDelegate
+0x100008668	0x00000098	[  6] l__PROTOCOL_INSTANCE_METHODS_OPT_UIWindowSceneDelegate
+0x100008700	0x00000018	[  6] l__PROTOCOL_PROPERTIES_UIWindowSceneDelegate
+0x100008718	0x00000030	[  6] l__PROTOCOL_METHOD_TYPES_UIWindowSceneDelegate
+0x100008748	0x00000060	[  6] l__PROTOCOL_NSObject
+0x1000087A8	0x00000010	[  6] l__PROTOCOL_PROTOCOLS_UISceneDelegate
+0x1000087B8	0x00000188	[  6] l__PROTOCOL_INSTANCE_METHODS_OPT_UISceneDelegate
+0x100008940	0x00000080	[  6] l__PROTOCOL_METHOD_TYPES_UISceneDelegate
+0x1000089C0	0x00000278	[  6] l__PROTOCOL_INSTANCE_METHODS_NSObject
+0x100008C38	0x00000020	[  6] l__PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+0x100008C58	0x00000048	[  6] l__PROTOCOL_PROPERTIES_NSObject
+0x100008CA0	0x000000D8	[  6] l__PROTOCOL_METHOD_TYPES_NSObject
+0x100008D78	0x00000008	[  4] pointer-to-literal-cstring
+0x100008D80	0x00000008	[  4] pointer-to-literal-cstring
+0x100008D88	0x00000008	[  4] pointer-to-literal-cstring
+0x100008D90	0x00000008	[  4] pointer-to-literal-cstring
+0x100008D98	0x00000008	[  4] pointer-to-literal-cstring
+0x100008DA0	0x00000008	[  4] pointer-to-literal-cstring
+0x100008DA8	0x00000008	[  4] pointer-to-literal-cstring
+0x100008DB0	0x00000008	[  4] pointer-to-literal-cstring
+0x100008DB8	0x00000008	[  4] pointer-to-literal-cstring
+0x100008DC0	0x00000008	[  4] pointer-to-literal-cstring
+0x100008DC8	0x00000008	[  4] pointer-to-literal-cstring
+0x100008DD0	0x00000008	[  5] pointer-to-literal-cstring
+0x100008DD8	0x00000008	[  5] pointer-to-literal-cstring
+0x100008DE0	0x00000008	[  5] l_OBJC_PROTOCOL_REFERENCE_$_UIApplicationDelegate
+0x100008DE8	0x00000008	[  5] l_OBJC_PROTOCOL_REFERENCE_$_NSObject
+0x100008DF0	0x00000008	[  6] l_OBJC_PROTOCOL_REFERENCE_$_UIWindowSceneDelegate
+0x100008DF8	0x00000008	[  6] l_OBJC_PROTOCOL_REFERENCE_$_UISceneDelegate
+0x100008E00	0x00000008	[  4] objc-class-ref
+0x100008E08	0x00000008	[  5] objc-class-ref
+0x100008E10	0x00000008	[  5] objc-class-ref
+0x100008E18	0x00000008	[  6] objc-class-ref
+0x100008E20	0x00000008	[  2] _OBJC_IVAR_$_AYTest._age
+0x100008E28	0x00000008	[  2] _OBJC_IVAR_$_AYTest._name
+0x100008E30	0x00000008	[  3] _OBJC_IVAR_$_OtherClass._age
+0x100008E38	0x00000008	[  3] _OBJC_IVAR_$_OtherClass._name
+0x100008E40	0x00000028	[  2] _OBJC_METACLASS_$_AYTest
+0x100008E68	0x00000028	[  2] _OBJC_CLASS_$_AYTest
+0x100008E90	0x00000028	[  3] _OBJC_METACLASS_$_OtherClass
+0x100008EB8	0x00000028	[  3] _OBJC_CLASS_$_OtherClass
+0x100008EE0	0x00000010	[  4] _$s8TestDemo14ViewControllerCMf
+0x100008EF0	0x00000000	[  4] _OBJC_CLASS_$__TtC8TestDemo14ViewController
+0x100008EF0	0x00000050	[  4] _$s8TestDemo14ViewControllerCN
+0x100008F40	0x00000010	[  5] _$s8TestDemo11AppDelegateCMf
+0x100008F50	0x00000000	[  5] _OBJC_CLASS_$__TtC8TestDemo11AppDelegate
+0x100008F50	0x00000068	[  5] _$s8TestDemo11AppDelegateCN
+0x100008FB8	0x00000010	[  6] _$s8TestDemo13SceneDelegateCMf
+0x100008FC8	0x00000000	[  6] _OBJC_CLASS_$__TtC8TestDemo13SceneDelegate
+0x100008FC8	0x000000A0	[  6] _$s8TestDemo13SceneDelegateCN
+0x100009068	0x00000008	[  0] __dyld_private
+0x100009070	0x00000008	[  4] _$sSo6AYTestCML
+0x100009078	0x00000028	[  4] _OBJC_METACLASS_$__TtC8TestDemo14ViewController
+0x1000090A0	0x00000008	[  5] _$sSo29UIApplicationLaunchOptionsKeyaABSHSCWL
+0x1000090A8	0x00000008	[  5] _$sSo20UISceneConfigurationCML
+0x1000090B0	0x00000008	[  5] _$sSo14UISceneSessionCML
+0x1000090B8	0x00000008	[  5] _$sSo14UISceneSessionCSo8NSObjectCSH10ObjectiveCWL
+0x1000090C0	0x00000028	[  5] _OBJC_METACLASS_$__TtC8TestDemo11AppDelegate
+0x1000090E8	0x00000008	[  5] _$sSo29UIApplicationLaunchOptionsKeyaML
+0x1000090F0	0x00000008	[  5] _$sSo29UIApplicationLaunchOptionsKeyaABSYSCWL
+0x1000090F8	0x00000008	[  5] _$sSo29UIApplicationLaunchOptionsKeyaABs35_HasCustomAnyHashableRepresentationSCWL
+0x100009100	0x00000008	[  5] _$sSo29UIApplicationLaunchOptionsKeyaABSQSCWL
+0x100009108	0x00000008	[  5] _$sSo29UIApplicationLaunchOptionsKeyaABs20_SwiftNewtypeWrapperSCWL
+0x100009110	0x00000008	[  5] _$sS2Ss21_ObjectiveCBridgeable10FoundationWL
+0x100009118	0x00000008	[  6] _$s8TestDemo13SceneDelegateC6windowSo8UIWindowCSgvpWvd
+0x100009120	0x00000028	[  6] _OBJC_METACLASS_$__TtC8TestDemo13SceneDelegate
+0x100009150	0x00000008	[  4] _$s8TestDemo14ViewControllerCML
+0x100009160	0x00000010	[  5] _$s8TestDemo11AppDelegateCML
+0x100009170	0x00000080	[  5] ___unnamed_14
+0x1000091F0	0x00000080	[  5] ___unnamed_16
+0x100009270	0x00000080	[  5] ___unnamed_17
+0x1000092F0	0x00000080	[  5] ___unnamed_18
+0x100009370	0x00000080	[  5] ___unnamed_20
+0x1000093F0	0x00000080	[  5] ___unnamed_21
+0x100009470	0x00000008	[  6] _$s8TestDemo13SceneDelegateCML
+
+# Dead Stripped Symbols:
+#        	Size    	File  Name
+<<dead>> 	0x00000018	[  2] CIE
+<<dead>> 	0x00000002	[  3] literal string: 
+<<dead>> 	0x0000000A	[  3] literal string: classOne:
+<<dead>> 	0x0000000A	[  3] literal string: classTwo:
+<<dead>> 	0x0000000D	[  3] literal string: instanceOne:
+<<dead>> 	0x0000000D	[  3] literal string: instanceTwo:
+<<dead>> 	0x00000004	[  3] literal string: age
+<<dead>> 	0x00000008	[  3] literal string: setAge:
+<<dead>> 	0x00000005	[  3] literal string: name
+<<dead>> 	0x00000009	[  3] literal string: setName:
+<<dead>> 	0x0000000E	[  3] literal string: .cxx_destruct
+<<dead>> 	0x00000005	[  3] literal string: _age
+<<dead>> 	0x00000006	[  3] literal string: _name
+<<dead>> 	0x0000000B	[  3] literal string: q20@0:8B16
+<<dead>> 	0x00000008	[  3] literal string: q16@0:8
+<<dead>> 	0x0000000B	[  3] literal string: v24@0:8q16
+<<dead>> 	0x00000008	[  3] literal string: @16@0:8
+<<dead>> 	0x0000000B	[  3] literal string: v24@0:8@16
+<<dead>> 	0x00000008	[  3] literal string: v16@0:8
+<<dead>> 	0x00000002	[  3] literal string: q
+<<dead>> 	0x0000000C	[  3] literal string: @"NSString"
+<<dead>> 	0x00000004	[  3] literal string: age
+<<dead>> 	0x0000000B	[  3] literal string: Tq,N,V_age
+<<dead>> 	0x00000005	[  3] literal string: name
+<<dead>> 	0x00000018	[  3] literal string: T@"NSString",&,N,V_name
+<<dead>> 	0x00000018	[  3] CIE
+<<dead>> 	0x00000008	[  4] literal string: setAge:
+<<dead>> 	0x00000004	[  4] literal string: age
+<<dead>> 	0x0000000D	[  4] literal string: instanceOne:
+<<dead>> 	0x0000000A	[  4] literal string: classOne:
+<<dead>> 	0x00000009	[  4] literal string: setName:
+<<dead>> 	0x00000005	[  4] literal string: name
+<<dead>> 	0x00000001	[  4] literal string: 
+<<dead>> 	0x00000001	[  4] literal string: 
+<<dead>> 	0x00000001	[  4] literal string: 
+<<dead>> 	0x00000001	[  4] literal string: 
+<<dead>> 	0x00000001	[  4] literal string: 
+<<dead>> 	0x00000001	[  4] literal string: 
+<<dead>> 	0x00000001	[  4] literal string: 
+<<dead>> 	0x00000001	[  4] literal string: 
+<<dead>> 	0x00000001	[  4] literal string: 
+<<dead>> 	0x00000001	[  4] literal string: 
+<<dead>> 	0x00000008	[  4] literal string: v16@0:8
+<<dead>> 	0x0000000B	[  4] literal string: @24@0:8@16
+<<dead>> 	0x00000018	[  4] CIE
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x0000000E	[  5] literal string: v32@0:8@16@24
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x0000000B	[  5] literal string: B24@0:8@16
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000009	[  5] literal string: ^v16@0:8
+<<dead>> 	0x00000007	[  5] literal string: T#,N,R
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000001	[  5] literal string: 
+<<dead>> 	0x00000008	[  5] literal string: dealloc
+<<dead>> 	0x00000005	[  5] literal string: init
+<<dead>> 	0x0000000C	[  5] l___unnamed_8
+<<dead>> 	0x0000000C	[  5] _$s8TestDemoMXM
+<<dead>> 	0x00000018	[  5] CIE
+<<dead>> 	0x00000001	[  6] l_coro.devirt.trigger
+<<dead>> 	0x00000008	[  6] literal string: dealloc
+<<dead>> 	0x00000005	[  6] literal string: init
+<<dead>> 	0x00000007	[  6] literal string: window
+<<dead>> 	0x0000000B	[  6] literal string: setWindow:
+<<dead>> 	0x0000000E	[  6] literal string: .cxx_destruct
+<<dead>> 	0x00000009	[  6] literal string: isEqual:
+<<dead>> 	0x00000005	[  6] literal string: hash
+<<dead>> 	0x0000000B	[  6] literal string: superclass
+<<dead>> 	0x00000006	[  6] literal string: class
+<<dead>> 	0x00000005	[  6] literal string: self
+<<dead>> 	0x00000011	[  6] literal string: performSelector:
+<<dead>> 	0x0000001C	[  6] literal string: performSelector:withObject:
+<<dead>> 	0x00000027	[  6] literal string: performSelector:withObject:withObject:
+<<dead>> 	0x00000008	[  6] literal string: isProxy
+<<dead>> 	0x0000000F	[  6] literal string: isKindOfClass:
+<<dead>> 	0x00000011	[  6] literal string: isMemberOfClass:
+<<dead>> 	0x00000014	[  6] literal string: conformsToProtocol:
+<<dead>> 	0x00000014	[  6] literal string: respondsToSelector:
+<<dead>> 	0x00000007	[  6] literal string: retain
+<<dead>> 	0x00000008	[  6] literal string: release
+<<dead>> 	0x0000000C	[  6] literal string: autorelease
+<<dead>> 	0x0000000C	[  6] literal string: retainCount
+<<dead>> 	0x00000005	[  6] literal string: zone
+<<dead>> 	0x0000000C	[  6] literal string: description
+<<dead>> 	0x00000011	[  6] literal string: debugDescription
+<<dead>> 	0x00000008	[  6] literal string: @16@0:8
+<<dead>> 	0x0000000B	[  6] literal string: v24@0:8@16
+<<dead>> 	0x00000011	[  6] literal string: v40@0:8@16@24@32
+<<dead>> 	0x00000008	[  6] literal string: v16@0:8
+<<dead>> 	0x00000007	[  6] literal string: window
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000012	[  6] literal string: v40@0:8@16@24@?32
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000011	[  6] literal string: T@"UIWindow",N,&
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000012	[  6] literal string: @"UIWindow"16@0:8
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000015	[  6] literal string: v24@0:8@"UIWindow"16
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000009	[  6] literal string: NSObject
+<<dead>> 	0x00000008	[  6] literal string: q16@0:8
+<<dead>> 	0x00000008	[  6] literal string: #16@0:8
+<<dead>> 	0x0000000C	[  6] literal string: ^@24@0:8:16
+<<dead>> 	0x0000000F	[  6] literal string: ^@32@0:8:16@24
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000012	[  6] literal string: ^@40@0:8:16@24@32
+<<dead>> 	0x00000008	[  6] literal string: B16@0:8
+<<dead>> 	0x0000000B	[  6] literal string: B24@0:8#16
+<<dead>> 	0x0000000B	[  6] literal string: B24@0:8:16
+<<dead>> 	0x00000005	[  6] literal string: hash
+<<dead>> 	0x00000007	[  6] literal string: Tq,N,R
+<<dead>> 	0x0000000B	[  6] literal string: superclass
+<<dead>> 	0x0000000C	[  6] literal string: description
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000011	[  6] literal string: T@"NSString",N,R
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000011	[  6] literal string: debugDescription
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000015	[  6] literal string: B24@0:8@"Protocol"16
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000001	[  6] literal string: 
+<<dead>> 	0x00000012	[  6] literal string: @"NSString"16@0:8
+<<dead>> 	0x0000000C	[  6] l___unnamed_10
+<<dead>> 	0x0000000C	[  6] _$s8TestDemoMXM
+<<dead>> 	0x00000018	[  6] CIE
+<<dead>> 	0x00000020	[  6] FDE
